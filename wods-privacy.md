@@ -32,5 +32,5 @@ We take reasonable steps to protect your information from loss, misuse, and unau
 We will retain your information for as long as necessary to provide you with our services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 ## Changes to Our Privacy Policy 
 We may modify this Privacy Policy from time to time. Any changes we make to our Privacy Policy will be posted on this page. If we make changes that materially alter your privacy rights, we will provide a notice on our website or by other means. 
-## Contact Us 
+
 [Contact us](mailto:privacy@wods.ai) if you have any questions about this privacy policy.
