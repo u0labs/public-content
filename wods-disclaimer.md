@@ -1,4 +1,4 @@
-## Disclaimer
+# Disclaimer
 
 This disclaimer applies to all users of the fitness application (“Application”). By using the Application, you agree to be bound by this disclaimer and the terms and conditions of use.
 
