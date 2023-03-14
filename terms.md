@@ -38,28 +38,42 @@ Contact Us If you have any questions or concerns about these Terms of Use, pleas
 
 By using WODdrive, you accept and agree to abide by these Terms of Use and our Community Guidelines, which are incorporated by reference into these Terms of Use, as a legally binding contract between you and WODdrive in relation to your use of the Platform. Please also review our Privacy Policy and Cookies Policy for information on how we collect and use data. These Terms of Use include:
 
-Description of the Platform: WODdrive gives you instant access to tens of thousands of workouts involving everything from powerlifting and Olympic weightlifting to cross-training.
+### Description of the Platform
+WODdrive gives you instant access to tens of thousands of workouts involving everything from powerlifting and Olympic weightlifting to cross-training.
 
-Your WODdrive Account: If you choose to register for a WODdrive account, you are responsible for maintaining the confidentiality of your account and password, and for restricting access to your computer or mobile device. You agree to accept responsibility for all activities that occur under your account or password.
+### Your WODdrive Account
+If you choose to register for a WODdrive account, you are responsible for maintaining the confidentiality of your account and password, and for restricting access to your computer or mobile device. You agree to accept responsibility for all activities that occur under your account or password.
 
-Your Use of the Platform: You have the right to use the Platform, but you agree to use it only for lawful purposes and in a way that does not infringe the rights of anyone else.
+### Your Use of the Platform
+You have the right to use the Platform, but you agree to use it only for lawful purposes and in a way that does not infringe the rights of anyone else.
 
-Your Content: You retain ownership of your content, but you agree not to upload anything that infringes on anyone else’s rights. By uploading your content, you grant WODdrive the right to use and distribute your content.
+### Your Content
+You retain ownership of your content, but you agree not to upload anything that infringes on anyone else’s rights. By uploading your content, you grant WODdrive the right to use and distribute your content.
 
-Liability for Content: WODdrive is a hosting service and its users are solely liable for material that they upload to the Platform.
+### Liability for Content
+WODdrive is a hosting service and its users are solely liable for material that they upload to the Platform.
 
-Reporting Infringements: If you believe that any content on WODdrive infringes your copyright or any other intellectual property right, or that is unlawful, abusive, defamatory, or otherwise contrary to these Terms of Use or our Community Guidelines, please notify us at legal@woddrive.com.
+### Reporting Infringements 
+If you believe that any content on WODdrive infringes your copyright or any other intellectual property right, or that is unlawful, abusive, defamatory, or otherwise contrary to these Terms of Use or our Community Guidelines, please notify us at legal@woddrive.com.
 
-Disclaimer: WODdrive cannot guarantee that the Platform will always be available.
+### Disclaimer
+WODdrive cannot guarantee that the Platform will always be available.
 
-Limitation of Liability: WODdrive will not be liable for certain things, as outlined in this section.
+### Limitation of Liability
+WODdrive will not be liable for certain things, as outlined in this section.
 
-Indemnification: If you use the Platform in a way that results in damage to WODdrive, you will need to take responsibility for that.
+### Indemnification
+If you use the Platform in a way that results in damage to WODdrive, you will need to take responsibility for that.
 
-Changes to the Platform: WODdrive may make changes to the Platform from time to time, and this section explains your rights in this situation.
+### Changes to the Platform
+WODdrive may make changes to the Platform from time to time, and this section explains your rights in this situation.
 
-Termination: You may terminate your WODdrive account, and WODdrive may terminate your use of the Platform under certain circumstances.
+### Termination
+You may terminate your WODdrive account, and WODdrive may terminate your use of the Platform under certain circumstances.
 
-Governing Law and Jurisdiction: These Terms of Use are governed by the laws of Canada. Any dispute arising from or related to these Terms of Use shall be subject to the exclusive jurisdiction of the courts of the Canada.
+### Governing Law and Jurisdiction
+These Terms of Use are governed by the laws of Canada. Any dispute arising from or related to these Terms of Use shall be subject to the exclusive jurisdiction of the courts of the Canada.
 
 If you have any questions or concerns about these Terms of Use, please contact us at legal@woddrive.com.
+
+
