@@ -15,7 +15,6 @@ Max rounds in 12 minutes
 ### Bodyweight
 
 Workouts involving little to no equipment, structured in a variety of formats.
-3 rounds
 
 *Example*
 
@@ -43,18 +42,27 @@ For time
 
 ### Couplet
 Workouts involving only two exercises, structured in a variety of formats.
+
+*Example*
+
 For time
 Run 5km
 Every 2 minutes stop and do 5x burpees
 
 ### EMOM
 “Every Minute On the Minute” - perform a specified or increasing amount of work at regular intervals on a running clock, usually at the top of each minute.
+
+*Example*
+
 Every minute on the minute for 8 minutes
 5x Back squat
 20x Push-ups
 
 ### Endurance
 Workouts involving run, bike, swim, and/or rowing in various combinations and formats such as time trials, sprints, or intervals.
+
+*Example*
+
 For time
 Run 3K
 Bike 6K
@@ -62,6 +70,9 @@ Swim 500m
 
 ### Hybrid
 Workouts Involving four or more exercises, structured in various formats. Infinite combinations.
+
+*Example*
+
 Max rounds in 30 minutes
 Run 400m
 15x Pull-ups
@@ -70,6 +81,9 @@ Row 25 cals
 
 ### Kettlebell
 Workouts involving one or more kettlebell movements, structured in a variety of formats.
+
+*Example*
+
 5 rounds
 10x Double KB snatch
 10x Burpees
@@ -77,16 +91,25 @@ Run 200m
 
 ### Ladder
 Workouts that involve an increasing workload over time.
+
+*Example*
+
 10 rounds
 1-2-3…10x Deadlift
 1-2-3…10x Bench press
 
 ### Rowing
 Indoor rowing workouts structured as time trials, intervals, or caloric expenditure.
-Row 6x[90:90] for max calories
+
+*Example*
+
+Row 6x(90:90) for max calories
 
 ### Strength Bias
 Short-duration workouts involving moderate to high intensity weightlifting, designed to be completed in under 10 minutes.
+
+*Example*
+
 Max rounds in 9 minutes
 3x Front squat (85% 1RM)
 5x Bench press (75%)
@@ -94,6 +117,9 @@ Max rounds in 9 minutes
 
 ### Strongman
 Workouts that involve the use of the classic strongman implements.
+
+*Example*
+
 5 rounds
 3x Tire flip
 8x Front squat
@@ -101,21 +127,30 @@ Workouts that involve the use of the classic strongman implements.
 
 ### Swimming
 Swimming workouts in pool or open water, alone or in combination with bodyweight and/or weightlifting exercises.
+
+*Example*
+
 Max rounds in 10 minutes
 Swim 50m
 10x Burpees
 
 ### Tabata
-Single or multiple exercises in the 8x[20:10] interval format.
+Single or multiple exercises in the 8x(20:10) interval format.
+
+*Example*
+
 For max reps
-Squats 8x[20:10]
+Squats 8x(20:10)
 Rest 3 minutes
-Double-unders 8x[20:10]
+Double-unders 8x(20:10)
 Rest 3 minutes
-Box jumps 8x[20:10]
+Box jumps 8x(20:10)
 
 ### Time cap
 With a running clock complete a series of movements and then with the time remaining under the cap complete a final max effort challenge.
+
+*Example*
+
 Time cap: 15 minutes
 25x Double-unders
 Sprint 20m out and back
@@ -127,6 +162,9 @@ Row for max calories
 
 ### Triplet
 Workouts involving only three exercises, structured in a variety of formats.
+
+*Example*
+
 5 rounds
 30x Squats
 15x GHD sit-ups
