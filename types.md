@@ -1,5 +1,5 @@
 # Workout Types
-An overview of different workout types and how they are structured.
+An overview of the different cross-training workout types and how they are structured.
 
 ### AMRAP
 Complete "As Many Rounds As Possible" of a given exercise combination within a specified time frame.
