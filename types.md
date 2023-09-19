@@ -13,8 +13,10 @@ Max rounds in 12 minutes
 * 15x Box jump
 
 ### Bodyweight
+
 Workouts involving little to no equipment, structured in a variety of formats.
 3 rounds
+
 40x Double-unders
 30x Push-ups
 20x Pull-ups
