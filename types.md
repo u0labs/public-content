@@ -7,8 +7,11 @@ Complete "As Many Rounds As Possible" of a given exercise combination within a s
 *Example*
 
 Max rounds in 12 minutes
+
 9x Deadlift
+
 12x Push-ups
+
 15x Box jump
 
 ### Bodyweight
