@@ -8,11 +8,9 @@ Complete "As Many Rounds As Possible" of a given exercise combination within a s
 
 Max rounds in 12 minutes
 
-9x Deadlift
-
-12x Push-ups
-
-15x Box jump
+* 9x Deadlift
+* 12x Push-ups
+* 15x Box jump
 
 ### Bodyweight
 Workouts involving little to no equipment, structured in a variety of formats.
