@@ -3,6 +3,9 @@ An overview of different workout types and how they are structured.
 
 ### AMRAP
 Complete "As Many Rounds As Possible" of a given exercise combination within a specified time frame.
+
+*Example*
+
 Max rounds in 12 minutes
 9x Deadlift
 12x Push-ups
