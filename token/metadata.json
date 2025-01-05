@@ -2,10 +2,5 @@
   "name": "WODS AI",
   "symbol": "WODS",
   "description": "Your ultimate health and fitness coach: tailored workouts, optimized nutrition, and a science backed approach to achieving your goals.",
-  "image": "https://raw.githubusercontent.com/u0labs/public-content/refs/heads/main/1024.png",
-  "external_url": "https://wods.ai",
-  "attributes": [
-    { "trait_type": "Category", "value": "Fitness" },
-    { "trait_type": "Type", "value": "Utility Token" }
-  ],
+  "image": "https://raw.githubusercontent.com/u0labs/public-content/refs/heads/main/1024.png"
 }
